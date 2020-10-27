@@ -11,5 +11,5 @@
 -->
 
 <a>
-<img width="300" src="https://imgur.com/6bewDZX.png">
+<img align="left" width="300" src="https://imgur.com/6bewDZX.png">
 </a>
