@@ -1,4 +1,4 @@
-# Takashi Ushikoshi
+# Takashi
 
 ### I am Uhucream!!!
 <a href="https://github.com/anuraghazra/github-readme-stats">
